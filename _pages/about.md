@@ -29,7 +29,7 @@ My research interest includes  computer science.
 
 
 # 📖 Educations
-- *2025.9 - 2025.11 (now)*, I study in shannan xi normal university
+- *2025.9 - 2025.11 (now)*, I study in Shaanxi Normal University
 # 💬 Invited Talks
 
 # 💻 Internships
